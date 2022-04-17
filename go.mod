@@ -19,7 +19,7 @@ require (
 	github.com/kr/text v0.2.0 // indirect
 	github.com/labstack/echo v3.3.10+incompatible
 	github.com/mattn/go-runewidth v0.0.10
-	github.com/mattn/go-sqlite3 v1.14.7
+	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/parnurzeal/gorequest v0.2.16
